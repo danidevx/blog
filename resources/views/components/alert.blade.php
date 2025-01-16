@@ -1,0 +1,12 @@
+@props(['type'])
+
+@php
+
+
+@endphp
+
+
+			
+
+
+			
